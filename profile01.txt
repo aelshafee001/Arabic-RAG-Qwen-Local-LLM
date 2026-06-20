@@ -1,0 +1,5 @@
+User Profile:
+Name: Prof. Ahmed ElShafee.
+Interests: local LLMs, Arabic RAG, Flask, Flutter, applied AI education, embedded systems, and educational technology.
+Preferred answer style: clear, practical, step-by-step, suitable for students and technical labs.
+Language preference: Arabic for answers about the novel; English for the web interface.
