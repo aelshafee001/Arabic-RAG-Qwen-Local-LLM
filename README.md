@@ -84,7 +84,7 @@ This experiment demonstrates three important ideas:
 | `data/arabic_document01.txt` | Arabic document used as the RAG knowledge source. |
 | `examples/questions.txt` | Test questions used for the Arabic novel. |
 | `commands/run.txt` | Original run commands. |
-| `docs/RAG_technical_notes_1.0.docx` | Full technical notes. |
+| `docs/RAG_technical_notes_1.0.pdf` | Full technical notes. |
 | `media/Media1.mp4` | Demo video of the running experiment. |
 | `media/demo_thumbnail.jpg` | Extracted thumbnail from the demo video. |
 | `rag_index/` | Generated FAISS index and chunks will be stored here after running the index builder. |
